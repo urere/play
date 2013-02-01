@@ -1,4 +1,4 @@
 play
 ====
 
-Projects for playing with various things
+Projects for playing with various things.
